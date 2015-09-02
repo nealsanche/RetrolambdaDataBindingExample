@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextAppearance.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/dark_blue_text</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.Body" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/dark_blue_text</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="TextAppearance.Label.Bold" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textColor">@color/dark_blue_text</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="TextAppearance.Label" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/dark_blue_text</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="TextAppearance.Label.Blue" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="Blue.Button" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal" tools:ignore="NewApi">@color/colorAccent</item>
+    </style>
+
+</resources>

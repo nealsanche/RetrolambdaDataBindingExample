@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetroLambdaDataBindingExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Lorem Ipsum Dolor</string>
+    <string name="title">Example</string>
+    <string name="phone_button_text">Dial phone number</string>
+    <string name="policy_holder">Policy Holder</string>
+    <string name="policy_renewal_date">Renewal Date</string>
+    <string name="policy_registration_number">Registration Number</string>
+</resources>
